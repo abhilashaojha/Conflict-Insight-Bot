@@ -122,7 +122,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE] (add the link here) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/abhilashaojha/Conflict-Insight-Bot/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
