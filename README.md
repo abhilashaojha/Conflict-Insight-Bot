@@ -68,7 +68,7 @@ file_path = '/path/to/your/news.article.json'
 2. <b>Run the script</b>
 
 ```bash
-python name_of_your_python_script.py 
+python name_of_your_python_script.py
 ```
 
 3. <b>Interact with the Bot</b>
